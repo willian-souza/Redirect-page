@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(78, 75, 75);
+}
+
+
+body{
+   background-image: linear-gradient(180deg, #8EFD8F 0%, #b6e4b8 74%);
+}
+
+header{
+    
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+header img{
+    width: 200px;
+    height: 200px;
+}
+
+header div.redes{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 100px;
+}
+
+header div.redes img{
+    width: 32px;
+    height: 32px;
+}
+
+header div.redes img:hover{
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    
+    -moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+main{
+    
+    text-align: center;
+}
+
+main h2{
+    padding-top: 30px;
+}
+
+
+section.container{
+    
+    width: 100%;
+    height: auto;
+    max-width: 1280px;
+    margin: 0 auto;
+    
+}
+
+main h2{
+    font-size: 45px;
+}
+
+section.sistemas{
+    background-color: rgb(72, 190, 72);
+    width: 65%;
+    margin: 10px auto;
+    height: auto;
+    border-radius: 30px;
+    box-shadow: 12px 11px 42px -8px rgba(0,0,0,1);
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+section.sistemas img{
+    background-color: white;
+    border: 1px solid rgb(206, 197, 197);
+    -webkit-box-shadow: 12px 11px 42px -10px rgba(0,0,0,1);
+    -moz-box-shadow: 12px 11px 42px -10px rgba(0,0,0,1);
+    box-shadow: 12px 11px 42px -10px rgba(0,0,0,1);
+    margin: 10px;
+    width: 150px;
+    border-radius: 20px;
+}
+
+section.sistemas img:hover{
+    transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    
+    -moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+section.sistemas div.sistemas-wraper{
+    margin: 30px;
+}
+
+
+footer{
+    margin: 50px auto;
+    text-align: center;
+}
+
+footer p:nth-of-type(1){
+    margin-top: -18px;
+    z-index: 99;
+}
+
+
+@media screen and (max-width: 768px){
+    section.sistemas img{
+        margin: 5px;
+        width: 100px;
+        }
+        
+}
+
+
+@media screen and (max-width: 650px){
+    section.sistemas img{
+    margin: 5px;
+    width: 100px;
+    }
+
+    section.sistemas{
+        width: 95%;
+    }
+   
+}
+
+@media screen and (max-width: 453px){
+    section.sistemas img{
+    margin: 5px;
+    width: 80px;
+    }
+}
