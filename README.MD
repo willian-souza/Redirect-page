@@ -12,7 +12,7 @@ Esse projeto é uma página de redirecionamento de sistemas, onde a ideia era un
 ## Conhecimentos adquiridos
 <li> Novas tags do HTML5
 <li> Utilização do FlexBox
-<li> Utilização dos comandos CSS: border-radius, box-shadow, transition e transform
+<li> Utilização das propriedades CSS: border-radius, box-shadow, transition e transform
 <li> Utilização de pseudo-classes
 <li> Aplicação de responsividade através de media queries
 
