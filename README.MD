@@ -48,8 +48,17 @@ Esse projeto é uma página de redirecionamento de sistemas, onde a ideia era un
     # Entrar no diretório baixado
     $ cd redirect-page
 
+<<<<<<< HEAD
     # Instalar as dependências        
     $ npm install 
+=======
+## Conhecimentos adquiridos
+<li> Novas tags do HTML5
+<li> Utilização do FlexBox
+<li> Utilização das propriedades CSS: border-radius, box-shadow, transition e transform
+<li> Utilização de pseudo-classes
+<li> Aplicação de responsividade através de media queries
+>>>>>>> b08642befede3571f481c3bd24536e8550781c59
 
     # Iniciar o projeto
     $ npm start 
