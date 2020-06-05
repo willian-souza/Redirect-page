@@ -48,6 +48,9 @@ Esse projeto é uma página de redirecionamento de sistemas, onde a ideia era un
     # Entrar no diretório baixado
     $ cd redirect-page
 
+    # Instalar as dependências        
+    $ npm install  
+
     # Iniciar o projeto
     $ npm start 
 
