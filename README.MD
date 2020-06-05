@@ -1,25 +1,59 @@
-# Página de redirecionamento de sistemas
+<h1 align="center">
+    <img src="assets/logo.png">
+<h1>
 
-Olá.
+<h1>
+    <img src="assets/redirect-page.gif">
+    <h3 align="center"><a href = "https://sis.tup.ifsp.edu.br">  Acessar o projeto </a></h3>
+<h1>
+
+
+# Índice
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
+
+---
+
+# 📄 Sobre
+
 Essa é minha primeira página desenvolvida para web.
 Desenvolvi essa página com o intuito de colocar em prática meus recentes estudos sobre desenvolvimento web.
 Esse projeto é uma página de redirecionamento de sistemas, onde a ideia era unir em uma única página, todos os sistemas usados na instituição onde eu trabalho, e essa página redireciona para o sistema desejado, afim de facilitar a experiência do usuário.
 
-## Tecnologias usadas
-<li> HTML5
-<li> CSS3
+---
 
-## Conhecimentos adquiridos
-<li> Novas tags do HTML5
-<li> Utilização do FlexBox
-<li> Utilização dos comandos CSS: border-radius, box-shadow, transition e transform
-<li> Utilização de pseudo-classes
-<li> Aplicação de responsividade através de media queries
+# 🖥 Tecnologias utilizadas
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 
-## Projeto finalizado
-Abaixo é possível ver o resultado final. Também é possível acessar diretamente a página através do link: https://sis.tup.ifsp.edu.br
+---
+# ✍ Conhecimentos adquiridos
+- Novas tags do HTML5
+- Utilização do FlexBox
+- Utilização dos comandos CSS: border-radius, box-shadow, transition e transform
+- Utilização de pseudo-classes
+- Aplicação de responsividade através de media queries
 
-![enter image description here](https://github.com/willian-souza/redirect-page/blob/master/assets/redirect-page.gif?raw=true)
+---
 
-## Futuros upgrades
-<li> Futuramente serão incrementadas funcionalidades em JavaScript.
+# 📦 Como baixar o projeto
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/willian-souza/redirect-page
+
+    # Entrar no diretório baixado
+    $ cd redirect-page
+
+    # Instalar as dependências        
+    $ npm install 
+
+    # Iniciar o projeto
+    $ npm start 
+
+```
+---
+
+Desenvolvido 🤓 por [Willian dos Santos Souza](https://www.linkedin.com/in/willian-dos-santos-souza-83348261/)
