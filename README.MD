@@ -7,6 +7,7 @@
     <h3 align="center"><a href = "https://sis.tup.ifsp.edu.br">  Acessar o projeto </a></h3>
 <h1>
 
+---
 
 # Índice
 - [Sobre](#-sobre)
@@ -21,6 +22,7 @@
 Essa é minha primeira página desenvolvida para web.
 Desenvolvi essa página com o intuito de colocar em prática meus recentes estudos sobre desenvolvimento web.
 Esse projeto é uma página de redirecionamento de sistemas, onde a ideia era unir em uma única página, todos os sistemas usados na instituição onde eu trabalho, e essa página redireciona para o sistema desejado, afim de facilitar a experiência do usuário.
+
 ---
 
 # 🖥 Tecnologias utilizadas
