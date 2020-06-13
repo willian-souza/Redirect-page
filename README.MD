@@ -9,7 +9,7 @@
 
 ---
 
-# Índice
+# 📋 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
