@@ -4,13 +4,15 @@
 
 <h1>
     <img src="assets/redirect-page.gif">
-    <h3 align="center"><a href = "https://sis.tup.ifsp.edu.br">  Acessar o projeto </a></h3>
+
 <h1>
 
 ---
 
 <h1 align = "center">
-    <img src="https://www.code-inspector.com/project/9411/score/svg">
+    <a href="https://frontend.code-inspector.com/public/project/9411/redirect-page/dashbo" target="_blank"> 
+        <img src="https://www.code-inspector.com/project/9411/score/svg"> 
+    </a>
 <h1>
 
 ---
