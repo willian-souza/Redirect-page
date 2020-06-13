@@ -9,6 +9,12 @@
 
 ---
 
+<h1 align = "center">
+    <img src="https://www.code-inspector.com/project/9411/score/svg">
+<h1>
+
+---
+
 # 📋 Índice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
