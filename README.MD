@@ -10,7 +10,7 @@
 ---
 
 <h1 align = "center">
-    <a href="https://frontend.code-inspector.com/public/project/9411/redirect-page/dashbo" target="_blank"> 
+    <a href="https://frontend.code-inspector.com/public/project/9411/redirect-page/dashboard" target="_blank"> 
         <img src="https://www.code-inspector.com/project/9411/score/svg"> 
     </a>
 <h1>
