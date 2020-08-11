@@ -80,7 +80,7 @@ section.sistemas{
 
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 
 section.sistemas img{
@@ -119,21 +119,18 @@ footer p:nth-of-type(1){
 }
 
 
+/* ===============MEDIA-QUERIES===================== */
+
 @media screen and (max-width: 768px){
     section.sistemas img{
         margin: 5px;
         width: 100px;
-        }
+    }
         
 }
 
 
 @media screen and (max-width: 650px){
-    section.sistemas img{
-    margin: 5px;
-    width: 100px;
-    }
-
     section.sistemas{
         width: 95%;
     }
@@ -142,7 +139,6 @@ footer p:nth-of-type(1){
 
 @media screen and (max-width: 453px){
     section.sistemas img{
-    margin: 5px;
-    width: 80px;
+        width: 80px;
     }
 }
