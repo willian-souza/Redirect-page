@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="assets/logo.png">
+    <img src="img/logo.png">
 <h1>
 
 <h1>
-    <img src="assets/redirect-page.gif">
+    <img src="img/redirect-page.gif">
 
 <h1>
 
