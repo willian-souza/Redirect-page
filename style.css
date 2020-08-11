@@ -70,6 +70,8 @@ main h2{
     font-size: 45px;
 }
 
+
+/* AQUI É ONDE CONFIGURO A SECTION QUE AS IMG DOS SISTEMAS VAO FICAR */
 section.sistemas{
     background-color: rgb(72, 190, 72);
     width: 65%;
@@ -83,6 +85,8 @@ section.sistemas{
     /* flex-wrap: wrap; */
 }
 
+
+/* AQUI É A CONFIGURAÇÃO DAS IMAGENS PARA SE ENCAIXAR NA SECTION PAI */
 section.sistemas img{
     background-color: white;
     border: 1px solid rgb(206, 197, 197);
