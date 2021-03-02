@@ -4,10 +4,11 @@
 
 <h1>
     <img src="img/redirect-page.gif">
+    <h3 align="center"> 
+        Access the application here 👉 <a href="https://sis.tup.ifsp.edu.br" target="_blank">Sistemas - IFSP<a>
+    <h3>
 
 <h1>
-
----
 
 <h1 align = "center">
     <a href="https://www.linkedin.com/in/willian-ssouza/">
@@ -21,63 +22,48 @@
     </a>
 <h1>
 
----
 
-# 📋 Índice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Licença](#-licença)
+# 📋 Index
+- [About](#-about)
+- [Technologies used](#-technologies-used)
+- [Download and run the project ](#-download-and-run-the-project)
+- [License](#-license)
 
 ---
 
-# 📄 Sobre
+# 📄 About
 
-Essa é minha primeira página desenvolvida para web.
-Desenvolvi essa página com o intuito de colocar em prática meus recentes estudos sobre desenvolvimento web.
-Esse projeto é uma página de redirecionamento de sistemas, onde a ideia era unir em uma única página, todos os sistemas usados na instituição onde eu trabalho, e essa página redireciona para o sistema desejado, afim de facilitar a experiência do usuário.
+This project is a systems redirection page, where the idea was to unite all the systems used in the institution where I work in a single page, and this page redirects to the desired system, in order to facilitate the user experience.
 
 ---
 
-# 🖥 Tecnologias utilizadas
+# 🖥 Technologies used
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 
 ---
-# ✍ Conhecimentos adquiridos
-- Novas tags do HTML5
-- Utilização do FlexBox
-- Utilização dos comandos CSS: border-radius, box-shadow, transition e transform
-- Utilização de pseudo-classes
-- Aplicação de responsividade através de media queries
 
----
+# 📦 Download and run the project
 
-# 📦 Como baixar o projeto
-
-OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://git-scm.com/downloads) e o [Node](https://nodejs.org/en/download/) instalados na máquina.
+Note: To perform the procedures below on your terminal it is necessary to have [Git](https://git-scm.com/downloads) installed on the your machine.
 
 ```bash
 
-    # Clonar o repositório
+    # Clone the repository
     $ git clone https://github.com/willian-souza/redirect-page
 
-    # Entrar no diretório baixado
+    # Enter the downloaded directory
     $ cd redirect-page
 
-    # Instalar as dependências        
-    $ npm install  
-
-    # Iniciar o projeto
-    $ npm start 
+    # Run the application
+    Open the index.html file in any browser
 
 ```
 ---
 
-# 📝Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+# 📝 License
+This project is under license MIT. See the archive [LICENSE](/LICENSE) for more details.
 
 ---
 
-Desenvolvido por [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
+Developed by [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
